@@ -77,6 +77,7 @@ Financial Insights: Provide recommendations for lending policies.
 
 This analysis provides valuable insights into the factors influencing loan performance and borrower risk. By understanding the impact of debt-to-income ratio, interest rates, and employment history, financial institutions can make more informed lending decisions. Future improvements can include integrating more advanced statistical analysis and automation using Excel macros.
 
+## Author - Arjun Chanda
 
 
 
