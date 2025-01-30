@@ -1,4 +1,4 @@
-# BANK  LOAN  REPORT ANALYSIS DashBoard Project-((creation using MS Excel)
+# BANK  LOAN  REPORT ANALYSIS DashBoard Project-(creation using MS Excel)
 ---
 ## Project Overview
 This project analyzes bank loan data to assess borrower risk, predict loan performance, and provide financial insights. It helps financial institutions optimize lending strategies and reduce loan defaults through data-driven analysis.
