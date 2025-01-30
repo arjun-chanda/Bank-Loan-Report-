@@ -28,7 +28,7 @@ The dataset includes the following key fields:
 -**home_ownership: Indicates if the borrower owns, rents, or has a mortgage.
 
 -**verification_status: Shows if borrower details were verified.
--
+
 ## Project Objectives
 
 Risk Assessment: Identify high-risk borrowers using Good vs Bad Loan classification.
